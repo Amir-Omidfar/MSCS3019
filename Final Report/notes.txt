@@ -1,0 +1,15 @@
+From DataSet1:
+- Compare brain to body weight ratio between dinosaurs and animal and order the smarter dinosaurs as the one we need to focus on for investment.
+
+From DataSet2:
+- Compare the current and projected investment for each dinosaur category and see if it makes sense. Or what needs to be changed.
+
+From DataSet3:
+- Factor in the public interest to justify some projected investments or if any changes needed.
+
+From DataSet4:
+A bit of a harder dataset to deal with. The rate of Hatchling to incubation lenghth is one analysis to consider. The staus is also important to note. Genus and order are more so just for organizing the data.
+
+From DataSet5:
+This can be used as our motivational/starting point to show how important it is to invest for Dinosaours and their coexistential future with humans.
+

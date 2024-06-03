@@ -1,5 +1,10 @@
 ## Final Report Assignment Due:
 
+
+### Story Prompt:
+
+You work at Biosyn Genetics who are the cutting edge of biotechnology.You've been asked to write a quarterly report for investors by your direct supervisor. They chose you because of your incredible data visualization skills. You have about 1-2 weeks to prepare and submit the final version. 
+
 Full **15-page quarterly report** for Biosyn Genetics. Please note: you've spent the last 9-10 weeks working on visual design with numerous chart options. Please ensure all elements build upon one another and there is a cohesive story. Triple check that the graphs you've chosen are well-suited to the data.
 
 All submissions must be .pdfs, in size 12 font, with APA-7 guidelines.
