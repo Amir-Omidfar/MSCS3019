@@ -1,0 +1,20 @@
+Dataset #1 - Brain to Body Weight & Mass | Animals Today + Dinosaur Species,,,,
+Group,Species,Brain mass (g),Body mass (g),Body wt (kg)
+Primates,Homo sapiens,1420,"83,000",83
+Cetacea,Porpoise (Phocaena phocaena),1735,"142,430",142.43
+Primates,Chimpanzee (Troglodytes niger),440,"56,690",56.69
+Marsupials,Baboon (Papio cynocephalus),175,"19,510",19.51
+Aves,Crow (Corvus brachyrhynchos),9.3,337,0.337
+Proboscidea,Elephant (Loxodonta africana knochenhaueri),5712,"6,654,000",6654
+Cetacea,"Whale, Blue (Balaenoptera musculus)",6800,"59,200,000",58059
+Marsupials,Opossum (Didelphus marsupialis etensis),4.8,"1,147",1.147
+Fish,Goldfish (Carassius auratus),0.1,9.5,0.00952
+Aves,"Ostrich, Masai (Struthio camelus massaicus)",42.11,"123,000",123
+Fish,Tuna (Thunus secundodorsalis),3.09,"5,210",5.21
+Reptiles,Alligator (Alligator mississippiensis),14.08,"205,000",205
+,Dinosaurs,,,
+Carnosaur,Allosaurus,167.5,"2,300,000",2300
+Ornithopod,Anatosaurus,150,"3,400,000",3400
+Sauropod,Brachiosaurus,154.5,"87,000,000",87000
+Ornithopod,Camptosaurus,23,"400,000",400
+Sauropod,Diplodocus,50,"11,700,000",11700

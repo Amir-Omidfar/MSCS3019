@@ -1,0 +1,11 @@
+The graphs included here are:
+
+1. TreeMap
+
+2. Icicle Map
+
+3. Sun burst Map
+
+The tree-map helps grasp an overview of all the groups in Family->Order->Category->Name  sequence.
+The Icicle one is also quite similar with one difference where you can see how many of the species have scientific names but no english common name. 
+The mapping between the two names is a lot clearer to visualize with the icicle graph. Finally with the sun burst graph, one can better see the spread between species and subspecies and how the ratio is distributed between each of the ostrich family groups.  

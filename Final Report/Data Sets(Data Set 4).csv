@@ -1,0 +1,11 @@
+Status,Order/Suborder,Genus,Incubation Length,Estimated Hatchlings
+Not Started,Carnosaur,Allosaurus,3 months,2
+Genetic Extraction,Ornithopod,Anatosaurus,2 months,1
+Fertilisation,Sauropod,Brachiosaurus,4 months,2
+Embryo Development,Ornithopod,Camptosaurus,6 months,2
+Genetic Extraction,Sauropod,Diplodocus,3 months,3
+Genetic Extraction,Ornithopod,Iguanodon,8 months,1
+Fertilisation,Ceratopsian,Protoceratops,7 months,2
+Genetic Extraction,Stegosaur,Stegosaurus,4 months,1
+Embryo Development,Ceratopsian,Triceratops,10 months,1
+Embryo Development,Theropod,Tyrannosaurus,4 months,1
