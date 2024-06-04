@@ -16,7 +16,7 @@ You must include **a minimum of 10 different types of visuals**. The below are m
 3. Tree Map
 4. Customer Journey Map
 5. Heat Map
-6. Sankey Diagram
+6. Sankey Diagram: Data Set #4
 
 Please ensure to include footnotes and appendices, your research references **(minimum of 9)** will be checked.
 Advised to have the writing center review all papers for grammar and spelling corrections before submission.
