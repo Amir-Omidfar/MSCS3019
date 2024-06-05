@@ -13,7 +13,7 @@ You must include **a minimum of 10 different types of visuals**. The below are m
 
 1. Bullet Graph
 2. Graph with Benchmark Line
-3. Tree Map
+3. Tree Map: Data Set #3
 4. Customer Journey Map
 5. Heat Map
 6. Sankey Diagram: Data Set #4
