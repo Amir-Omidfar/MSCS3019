@@ -27,23 +27,24 @@ if __name__ == "__main__":
             count+=1
             label_dict[item] = [count-1,counter_dict[item]]
     #print(label[0])
-    label[0] = "Not Started"
-    label[1] = "Genetic Extraction"
-    label[2] = "Fertilisation"
-    label[3] = "Embryo Development"
-    label_dict["Not Started"][0] = 0
-    label_dict["Genetic Extraction"][0] = 1
-    label_dict["Fertilisation"][0] = 2
-    label_dict["Embryo Development"][0] = 3
+    label[0] = "Status: Not Started"
+    label[1] = "Status: Genetic Extraction"
+    label[2] = "Status: Fertilisation"
+    label[3] = "Status: Embryo Development"
+    label_dict["Status: Not Started"][0] = 0
+    label_dict["Status: Genetic Extraction"][0] = 1
+    label_dict["Status: Fertilisation"][0] = 2
+    label_dict["Status: Embryo Development"][0] = 3
 
     #print("column set list: ", columns_set_list)
     print("df: ", df)
-    #print("label dict: ", label_dict)
+    print("label dict: ", label_dict)
     #print("_____________________________________*********_____________________________")
     #print("label: " , label)
     source = [label_dict[item][0] for item in df[df.columns[0]]]
     target = [label_dict[item][0] for item in df[df.columns[1]]]
     value = [label_dict[item][1] for item in df[df.columns[1]]]
+    print(value)
     for c in range(1,cols-1):
         for item in df[df.columns[c]]:
             source.append(label_dict[item][0])
@@ -66,7 +67,7 @@ if __name__ == "__main__":
         value = value
     ))])
 
-    fig.update_layout(title_text="Snakey Diagram of Data Set #4 Development Status", font_size=20)
+    fig.update_layout(title_text="Sankey Diagram of Data Set #4 Dinasours Development Status", font_size=30)
     fig.show()
 
 

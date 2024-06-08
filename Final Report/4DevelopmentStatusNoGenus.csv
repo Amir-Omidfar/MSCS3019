@@ -1,0 +1,11 @@
+Status,Order/Suborder,Incubation Length,Estimated Hatchlings
+Status: Genetic Extraction,Order: Ornithopod,Incubation: 2 months,Est Hatchlings: 1
+Status: Genetic Extraction,Order: Sauropod,Incubation: 3 months,Est Hatchlings: 3
+Status: Genetic Extraction,Order: Ornithopod,Incubation: 8 months,Est Hatchlings: 1
+Status: Genetic Extraction,Order: Stegosaur,Incubation: 4 months,Est Hatchlings: 1
+Status: Fertilisation,Order: Ceratopsian,Incubation: 7 months,Est Hatchlings: 2
+Status: Fertilisation,Order: Sauropod,Incubation: 4 months,Est Hatchlings: 2
+Status: Embryo Development,Order: Ceratopsian,Incubation: 10 months,Est Hatchlings: 1
+Status: Embryo Development,Order: Theropod,Incubation: 4 months,Est Hatchlings: 1
+Status: Embryo Development,Order: Ornithopod,Incubation: 6 months,Est Hatchlings: 2
+Status: Not Started,Order: Carnosaur,Incubation: 3 months,Est Hatchlings: 2

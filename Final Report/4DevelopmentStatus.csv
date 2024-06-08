@@ -1,11 +1,11 @@
 Status,Order/Suborder,Genus,Incubation Length,Estimated Hatchlings
-Not Started,Carnosaur,Allosaurus,3 months,2
-Genetic Extraction,Ornithopod,Anatosaurus,2 months,1
-Fertilisation,Sauropod,Brachiosaurus,4 months,2
-Embryo Development,Ornithopod,Camptosaurus,6 months,2
-Genetic Extraction,Sauropod,Diplodocus,3 months,3
-Genetic Extraction,Ornithopod,Iguanodon,8 months,1
-Fertilisation,Ceratopsian,Protoceratops,7 months,2
-Genetic Extraction,Stegosaur,Stegosaurus,4 months,1
-Embryo Development,Ceratopsian,Triceratops,10 months,1
-Embryo Development,Theropod,Tyrannosaurus,4 months,1
+Status: Not Started,Order: Carnosaur,Genus: Allosaurus,Incubation: 3 months,Est Hatchlings: 2
+Status: Genetic Extraction,Order: Ornithopod,Genus: Anatosaurus,Incubation: 2 months,Est Hatchlings: 1
+Status: Genetic Extraction,Order: Sauropod,Genus: Diplodocus,Incubation: 3 months,Est Hatchlings: 3
+Status: Genetic Extraction,Order: Ornithopod,Genus: Iguanodon,Incubation: 8 months,Est Hatchlings: 1
+Status: Genetic Extraction,Order: Stegosaur,Genus: Stegosaurus,Incubation: 4 months,Est Hatchlings: 1
+Status: Fertilisation,Order: Ceratopsian,Genus: Protoceratops,Incubation: 7 months,Est Hatchlings: 2
+Status: Fertilisation,Order: Sauropod,Genus: Brachiosaurus,Incubation: 4 months,Est Hatchlings: 2
+Status: Embryo Development,Order: Ceratopsian,Genus: Triceratops,Incubation: 10 months,Est Hatchlings: 1
+Status: Embryo Development,Order: Theropod,Genus: Tyrannosaurus,Incubation: 4 months,Est Hatchlings: 1
+Status: Embryo Development,Order: Ornithopod,Genus: Camptosaurus,Incubation: 6 months,Est Hatchlings: 2

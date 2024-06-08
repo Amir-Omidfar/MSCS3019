@@ -11,12 +11,17 @@ All submissions must be .pdfs, in size 12 font, with APA-7 guidelines.
 
 You must include **a minimum of 10 different types of visuals**. The below are mandatory to include:
 
-1. Bullet Graph
-2. Graph with Benchmark Line
-3. Tree Map: Data Set #3
-4. Customer Journey Map
-5. Heat Map
-6. Sankey Diagram: Data Set #4
+1. Bullet Graph: DataSet #2 Done
+2. Graph with Benchmark Line :  Data Set #1 Done 
+3. Tree Map: Data Set #3 :  Done
+4. Customer Journey Map 
+5. Heat Map : TODO: Data Sets #2 and #3 combined for this would be great 
+6. Sankey Diagram: Data Set #4 
+
+7. Clustered Columns done
+8. Text figures done 
+9. PieChart done 
+10. 
 
 Please ensure to include footnotes and appendices, your research references **(minimum of 9)** will be checked.
 Advised to have the writing center review all papers for grammar and spelling corrections before submission.
